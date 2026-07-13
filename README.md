@@ -218,3 +218,4 @@ Feel free to fork this repository, submit issues, and contribute improvements!
 [Back to Top](#tic-tac-toe-game)
 
 </div>
+![alt text](<Screenshot 2026-07-13 232731.png>)
