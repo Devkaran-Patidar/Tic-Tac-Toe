@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Tic Tac Toe](./image/image.png)
 
 A fully functional, interactive Tic Tac Toe game built with vanilla HTML, CSS, and JavaScript. Play against another player with a clean, responsive interface and modern UI/UX design.
 
